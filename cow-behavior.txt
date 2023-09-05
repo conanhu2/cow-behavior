@@ -3,3 +3,5 @@ Cow activity recognation patern
 - Lying
 - Ruminating
 - Eating
+Wearable device (Accelerometer)
+Non-wearable device (Yolov8)
